@@ -24,6 +24,18 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/ff973f3f-67ff-4c42-917c-b95895201dd9)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/7abe645b-d97f-431e-84dc-5ae51b7261d5)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/a84a2c22-806b-41e5-9b2a-ed2f8e1b2325)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/c954c953-2ccb-40bb-8e07-b187dc7004ef)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/46af60d3-d1bb-4c2c-9833-431587164019)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/c7a46337-7321-4a61-8dda-00bb38c420e8)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/778eb3b6-6249-4e53-b5b5-af47515a43c6)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/c59b114f-9061-4f88-b38b-7b20f8180293)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/be8ec3e7-1490-4520-b6ae-6e00344ad551)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/26268351-1bbe-4321-bc3b-1c81ad94a7a8)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/0a870d73-734e-4e00-b7dd-ca7c916efaa9)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/0234f545-8104-48d7-8385-7ce133568a38)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus the program to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is created executed and output is verified successfully.
