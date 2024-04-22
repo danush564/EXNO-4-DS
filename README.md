@@ -24,18 +24,18 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/ff973f3f-67ff-4c42-917c-b95895201dd9)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/7abe645b-d97f-431e-84dc-5ae51b7261d5)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/a84a2c22-806b-41e5-9b2a-ed2f8e1b2325)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/c954c953-2ccb-40bb-8e07-b187dc7004ef)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/46af60d3-d1bb-4c2c-9833-431587164019)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/c7a46337-7321-4a61-8dda-00bb38c420e8)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/778eb3b6-6249-4e53-b5b5-af47515a43c6)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/c59b114f-9061-4f88-b38b-7b20f8180293)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/be8ec3e7-1490-4520-b6ae-6e00344ad551)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/26268351-1bbe-4321-bc3b-1c81ad94a7a8)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/0a870d73-734e-4e00-b7dd-ca7c916efaa9)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/0234f545-8104-48d7-8385-7ce133568a38)
+![image](https://github.com/danush564/EXNO-4-DS/assets/98585166/59fa99a1-d073-4de7-9814-def88a5748b3)
+![image](https://github.com/danush564/EXNO-4-DS/assets/98585166/7f22edbf-906c-49d6-8bc3-8e14ce32c900)
+![image](https://github.com/danush564/EXNO-4-DS/assets/98585166/b7a2bed6-dc65-4a2d-af7f-fafd43c99833)
+![image](https://github.com/danush564/EXNO-4-DS/assets/98585166/be3f12f3-a07a-4818-9eba-cb50e76689b2)
+![image](https://github.com/danush564/EXNO-4-DS/assets/98585166/177272ef-1742-42bb-bf19-1ee04c20d2dc)
+![image](https://github.com/danush564/EXNO-4-DS/assets/98585166/91e5d145-7742-4180-971e-13a20b58983f)
+![image](https://github.com/danush564/EXNO-4-DS/assets/98585166/53b22eb8-7238-4c37-b049-6abdcb2f4259)
+![image](https://github.com/danush564/EXNO-4-DS/assets/98585166/3ce6f0d2-1e5d-47ff-8cce-0d87bb9a0ec4)
+![image](https://github.com/danush564/EXNO-4-DS/assets/98585166/f9ba33e3-f6ba-4fdc-b829-0a8128cbbb47)
+![image](https://github.com/danush564/EXNO-4-DS/assets/98585166/55ccb53d-3fb2-40e0-8485-d66098473bdd)
+![image](https://github.com/danush564/EXNO-4-DS/assets/98585166/3f4231ad-87b8-4115-bf95-fdd2424420f7)
+![image](https://github.com/danush564/EXNO-4-DS/assets/98585166/2da05ce9-5753-4f62-b4bb-26b282ffeac3)
 
 # RESULT:
       Thus the program to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is created executed and output is verified successfully.
